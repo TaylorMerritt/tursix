@@ -10,6 +10,10 @@ Run the dev server:
 npm run dev
 ```
 
+```shellscript
+turso dev --db-file local.db
+```
+
 ## Deployment
 
 First, build your app for production:
